@@ -9,17 +9,19 @@
 
 ## About The Project
 
-With this app you can import/export photos and videos from/to photo gallery and also download files directly from the web. 
+With this app you can import/export photos and videos from/to photo gallery and
+also download files directly from the web.
 
-Files managed by the app are kept within app's folder therefore they are not exposed to phone's built-in file manager unless the phone is rooted.
+Files managed by the app are kept within app's folder therefore they are not
+exposed to phone's built-in file manager unless the phone is rooted.
 
 Here are some other features:
 
-* A simple built-in web browser
-* Transfer files from your PC through web sockets. (Socket app repo => https://github.com/martymfly/file-transfer-expo)
-* Darkmode - Lightmode
-* Passcode protection
-* Unlock with biometrics
+- A simple built-in web browser
+- Transfer files from your PC through web sockets.
+- Darkmode - Lightmode
+- Passcode protection
+- Unlock with biometrics
 
 <div align="center">
   <h2 align="center">Screenshots</h2>
@@ -49,31 +51,37 @@ Here are some other features:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/martymfly/expo-file-manager
+   git clone https://github.com/qavrix/expo-file-manager
    ```
 2. Install dependencies
+
    ```sh
    npm install
    ```
+
    or
-   
+
    ```sh
    yarn install
    ```
+
 3. Start the app
-  - Run on Android: `yarn android` (or `npm run android`).
 
-  - Run on iOS: `yarn ios` (or `npm run ios`).
-  
-  - Run on Web: `yarn web` (or `npm run web`).
+- Run on Android: `yarn android` (or `npm run android`).
 
+- Run on iOS: `yarn ios` (or `npm run ios`).
+
+- Run on Web: `yarn web` (or `npm run web`).
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to
+learn, inspire, and create. Any contributions you make are **greatly
+appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+If you have a suggestion that would make this better, please fork the repo and
+create a pull request. You can also simply open an issue with the tag
+"enhancement". Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
